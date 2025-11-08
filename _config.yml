@@ -2,6 +2,6 @@ title: Fairbourne Railway Wiki
 description: Repository of information about the Fairbourne Railway, its locomotives, rolling stock, and operations.
 # theme: jekyll-theme-cayman
 markdown: kramdown
-baseurl: ""
+baseurl: "fairbourne-railway-wiki/"
 url: "https://pinkywafer.github.io/fairbourne-railway-wiki/"
 show_downloads: false
